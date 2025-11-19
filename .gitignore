@@ -4,3 +4,4 @@ target
 dataset
 nml_workspace
 reconstructed
+.venv
